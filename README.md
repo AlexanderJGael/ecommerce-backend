@@ -3,6 +3,8 @@
 ## Description
 This project is for the Module 13 Challenge in the Coding Boot Camp at KU. It is an API for a web commerce platform to keep track of products and stock. It uses Node.js, Express.js, and Sequelize with a MySQL database.
 
+### Demonstration
+
 ## Table of Contents
 - [Description](#description)
 - [Technologies Used](#technologies-used)
