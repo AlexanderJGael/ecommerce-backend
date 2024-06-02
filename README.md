@@ -4,7 +4,11 @@
 This project is for the Module 13 Challenge in the Coding Boot Camp at KU. It is an API for a web commerce platform to keep track of products and stock. It uses Node.js, Express.js, and Sequelize with a MySQL database.
 
 ### Demonstration
-![25DC56D5-3F57-46E5-9176-D8785D825071_1_206_a](https://github.com/AlexanderJGael/ecommerce-backend/assets/130517352/1b5c43c8-00a7-4964-800b-2cf1593611fc)
+
+https://github.com/AlexanderJGael/ecommerce-backend/assets/130517352/913c5a48-2c5c-45f4-b0fb-5aac9b4c15e9
+
+
+
 
 
 ## Table of Contents
